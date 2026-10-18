@@ -1,0 +1,10 @@
+Customer ID, Customer Name , Purchase Date , Product, Quantity, Sales Amount, City
+101, Ananya Rao ,2026-01-05,Notebook,2,"₹300",Bengaluru
+102,Rahul N,2026-01-06,Pen,10,"₹150",Mysuru
+103,Meera S,2026-01-07,Backpack,1,"₹1,200",Bengaluru
+104,,2026-01-08,Notebook,3,"₹450",Hubballi
+105,Arjun K,2026-01-09,Pen,5,"₹75",Mangaluru
+105,Arjun K,2026-01-09,Pen,5,"₹75",Mangaluru
+106,  Divya P  ,2026-01-10,Backpack,,"₹2,400",
+107,Kiran M,2026-01-11,Notebook,4,,Mysuru
+108,Sanjay R,not-a-date,Pen,2,"₹30",Bengaluru
